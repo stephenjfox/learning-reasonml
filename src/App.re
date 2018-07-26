@@ -1,4 +1,5 @@
 Js.log("Hello, BuckleScript and Reason!");
 
 
-Variants.run()
+/* Variants.run() */
+TypedFun.run()
